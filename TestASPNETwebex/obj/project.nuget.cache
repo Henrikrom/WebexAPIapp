@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zBtRQmI6kyM6H/V7xmHdmkRm8LZeD2exMYPgLw8goBh1kpMPydOC4bCkZTw3m2nm2lr4ujOW7tInxupDI8a/hw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HenrikBjørnerudRomne\\source\\repos\\TestASPNETwebex\\TestASPNETwebex\\TestASPNETwebex.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HenrikBjørnerudRomne\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\HenrikBjørnerudRomne\\.nuget\\packages\\npgsql\\5.0.3\\npgsql.5.0.3.nupkg.sha512",
+    "C:\\Users\\HenrikBjørnerudRomne\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
